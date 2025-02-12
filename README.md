@@ -1,10 +1,10 @@
 # 🐧 Flappy Penguin
 
-Welcome to **Flappy Penguin**, a fun and addictive web-based game inspired by the classic Flappy Bird. This project is built using modern web development technologies.
+Welcome to **Flappy Penguin**, a fun and interactive web-based project inspired by the classic Flappy Bird. This project is built using modern web development technologies.
 
 ## 🛠️ Technologies Used
 
-- 🌐 **HTML5**: The backbone of the game structure.
+- 🌐 **HTML5**: The backbone of the project structure.
 - 🎨 **CSS3**: For stylish and responsive design.
 
 ## 🚀 Getting Started
